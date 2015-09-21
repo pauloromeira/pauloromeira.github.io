@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/romeira
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pauloromeira.com
+  * I am romeira (https://keybase.io/romeira) on keybase.
+  * I have a public key with fingerprint B8B4 0FCD 6518 C2E4 A5E5  6EDB 4BAA 59BF 1673 9C18
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.19"
+        },
+        "key": {
+            "eldest_kid": "0101e36e5ffacc30826b9af62011fef9820b7218a9dfac50e496232ef985d26f538b0a",
+            "fingerprint": "b8b40fcd6518c2e4a5e56edb4baa59bf16739c18",
+            "host": "keybase.io",
+            "key_id": "4baa59bf16739c18",
+            "kid": "0101e36e5ffacc30826b9af62011fef9820b7218a9dfac50e496232ef985d26f538b0a",
+            "uid": "5d4d97e2009940e65c715539cc3ee319",
+            "username": "romeira"
+        },
+        "service": {
+            "hostname": "pauloromeira.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1442866347,
+    "expire_in": 157680000,
+    "prev": "1eca3b18bb1736a76ba6533966dd8215fea4ca0d4dc2db7b2e50f04c1a28a4b4",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtkmtMFGcUhhdstS4uWjBcGit0xJCS7Xbul7XZGhVaQrAWagPUuJnLNzDL7s66
+O4CrVSRyiaDGBlIQNoiSNuXahkJFEGwVDGDVFIuEGg3UYECllhRB0JLOEPzRpD87
+v77Mec573vN+3ynDCp3eL6E+9VKIxxfmd22S032qExoOQpwseCHzQYi3S8CpaCcn
+6wCQGcoEXo71AJMkRzplAZhsnshlxghlA7dHkp0qBZtoE8JAh4war3UDuwA8ijVT
+ErQqAiMAIwEhiizPYzCNkhzDiiQKI4gIRIZGYY5CEZplBBUgYIAzJIqhWoUQUFIk
+MJqDWXWgKDnTgdvlljSLEEdzOCzyAkkgNI8CnCUAQQKBwzmWJRhOREgKY3iEVhsz
+ZI/yr2WgJafWJXv/wf/PvrOW5AgBFxgKoDDMMDgMSIKnEIJQR/IYAJganwp6gHs5
+eLfsAJKb1TJVf2ZLPNBy1RZZBlxsll1epky87FDbXW5ZkXnZrlYzFMVl1poVr0uj
+cwBnXdaxcpJTUJPUbrDy5RUiKsorkqaM4DhKkySGU0YI7HdJbmCVNIKgSBpWP20O
+yFY1EcCzGIfQHIdQGMlSJMeSBIYxJCkINIoQImBxnoXVtXlU4CgOBQQswjiPsCjN
+4hwOaavtc8qQGVN9sumqpEdKd7JKlhtAh475b3hF56fXrXzVX3ujOv3qdS8frvHK
+2sVoa0x+ZHhNWdzwj/5Tmy7+9MNz/knoO0WlI1k961KqmgOOTKyildmjKb7yVFs4
+cv3tsb8H7E/XB20GIR37vW/9lrNn5mzl+9e+sySHRUwXjBWbK8e83xxvik1iypgE
+y2hFwaMTK579Km7uCzg8Htpz9VSP+/6wOdG7MLdhY9X5kLKWlpufKeHthqpKY8Xz
+yaH4jpnoust5E10Ncl5ERvF86zjTSK19sePNeBc00ppxZDrs+k5Hd0Nz8++RqYvl
+zev7p9M619x99KC/ISJwpKik4K/boiOw/ujXyU0Zs+mPcxNjCysyS1p88dNtXfx7
+Wx4bS15cMFgs3wbu2h53J+ld/dX2LcW3umvzs2Y8zeONl61A2BEWc8yxx3bAtj04
+EXnS1nBvQN8Z2vv6gZWr9y689sXn1UV9uuIHsu6NLvv5vkFs4mPJYfD98Ul/9/Du
+256cpnBDdORCYupsGxVUHzi0rSr2g4LCyTXPLg5us5W2zOff6BhNyo36cM4XnTm/
+68zTkok7CYd7G9M+Crhwf+veoMXxh1RIbTVyJWruRkpdwPGpn5PnB1KGwxrp2ria
+rbe+//OrkfJVl5JiMofSFm7m5QRSc7mnexN7z3TnBJ+urj1RutMySJgdbcFx++Lj
+TBUn740YRn24Yin80lEzPdW56eFCe78tauPgud11rUPlE5DvF71yl2+s/Qc=
+=Q3/b
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/romeira
+
+==================================================================
