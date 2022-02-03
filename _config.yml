@@ -5,7 +5,6 @@ email: paulo@pauloromeira.com
     # Página pessoal.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pauloromeira.com" # the base hostname & protocol for your site
-twitter_username: pauloromeira
 github_username: pauloromeira
 
 # Build settings
