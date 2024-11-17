@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Paulo Romeira</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body, h1, h2, p {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Inconsolata', monospace;
+      background-color: #f5f5f5;
+    }
+    .profile-card {
+      max-width: 400px;
+      margin: 60px auto;
+      background-color: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+      overflow: hidden;
+    }
+    .profile-card__content {
+      padding: 32px;
+    }
+    .profile-card__name {
+      font-size: 28px;
+      font-weight: 550;
+      margin-bottom: 12px;
+      text-align: center;
+    }
+    .profile-card__role {
+      font-size: 18px;
+      color: #757575;
+      margin-bottom: 24px;
+      text-align: center;
+    }
+    .profile-card__links {
+      text-align: left;
+      padding-left: 20px;
+    }
+    .profile-card__links a {
+      display: flex;
+      align-items: center;
+      color: #1e88e5;
+      text-decoration: none;
+      font-size: 16px;
+      margin-bottom: 12px;
+      transition: color 0.3s;
+    }
+    .profile-card__links a i {
+      margin-right: 8px;
+    }
+    .profile-card__links a:hover {
+      color: #1565c0;
+    }
+    .profile-card:hover {
+      box-shadow: 0 10px 24px rgba(0,0,0,0.12);
+    }
+  </style>
+</head>
+<body>
+
+<div class="profile-card">
+  <div class="profile-card__content">
+    <div class="profile-card__name">Paulo Romeira</div>
+    <div class="profile-card__role">Software Engineer</div>
+    <div class="profile-card__links">
+      <a href="mailto:paulo@pauloromeira.com"><i class="fas fa-envelope"></i> paulo@pauloromeira.com</a>
+      <a href="https://github.com/pauloromeira"><i class="fab fa-github"></i> github.com/pauloromeira</a>
+      <a href="https://www.linkedin.com/in/pauloromeira"><i class="fab fa-linkedin"></i> linkedin.com/in/pauloromeira</a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
